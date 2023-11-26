@@ -11,7 +11,7 @@ Bem vindo ao Jogo da Memória JS! Nesse repositório, você encontrará um jogo 
 2. Abra o arquivo `index.html` em seu navegador web.
 3. Agora é só se divertir.
 
-[Clique aqui](https://glauciofelix.github.io/detona-ralph-game-js/) para acessar o resultado final do jogo da memória!
+[Clique aqui](https://glauciofelix.github.io/jogo_da_memoria_js/) para acessar o resultado final do jogo da memória!
 
 ---
 
